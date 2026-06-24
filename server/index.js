@@ -44,22 +44,21 @@ server.tool(
 })
 
 
-// to support multiple simultaneous connections we have a lookup object from
-// sessionId to transport
+
 const transports = {};
 
 app.get("/sse", async (req, res) => {
     const transport = new SSEServerTransport('/messages', res);
-    transports[ transport.sessionId ] = transport;
+    transports[transport.sessionId] = transport;
     res.on("close", () => {
-        delete transports[ transport.sessionId ];
+        delete transports[transport.sessionId];
     });
     await server.connect(transport);
 });
 
 app.post("/messages", async (req, res) => {
     const sessionId = req.query.sessionId;
-    const transport = transports[ sessionId ];
+    const transport = transports[sessionId];
     if (transport) {
         await transport.handlePostMessage(req, res);
     } else {
