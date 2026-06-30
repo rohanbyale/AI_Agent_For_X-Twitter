@@ -13,38 +13,8 @@
 
 An AI-powered Twitter/X automation agent built with **Google Gemini** and **Model Context Protocol (MCP)** to generate high-quality tweets and publish them automatically.
 
----
-
-
-## 📂 Project Structure
-
-```text
-.
-├── agent/
-├── mcp/
-├── prompts/
-├── config/
-├── main.py
-├── requirements.txt
-└── README.md
-```
 
 ---
-
-## 🚀 Installation
-
-### Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
-```
-
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
 
 ### Configure Environment Variables
 
