@@ -15,18 +15,7 @@ An AI-powered Twitter/X automation agent built with **Google Gemini** and **Mode
 
 ---
 
-## ✨ Features
 
-- 🤖 AI-generated tweets using Gemini
-- 🧠 Context-aware content generation
-- 🔗 Model Context Protocol (MCP) integration
-- 🐦 Automatic Twitter/X posting
-- 📅 Scheduled tweet support
-- ⚡ Fast and lightweight
-- 🔒 Secure API key management
-- 🛠️ Easy to customize
-
----
 
 ## 🏗️ Tech Stack
 
