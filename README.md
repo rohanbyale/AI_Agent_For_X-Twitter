@@ -5,8 +5,6 @@
 
 
 
-![GitHub License](https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Powered%20by-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-MCP-00C853?style=for-the-badge)
 ![X](https://img.shields.io/badge/X-Twitter-000000?style=for-the-badge&logo=x)
