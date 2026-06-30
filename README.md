@@ -2,7 +2,7 @@
 
 <p align="center">
 
-![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=for-the-badge)
+
 ![GitHub Forks](https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO?style=for-the-badge)
 ![GitHub Issues](https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPO?style=for-the-badge)
 ![GitHub License](https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO?style=for-the-badge)
