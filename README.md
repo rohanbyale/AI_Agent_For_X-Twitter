@@ -16,17 +16,6 @@ An AI-powered Twitter/X automation agent built with **Google Gemini** and **Mode
 ---
 
 
-
-## 🏗️ Tech Stack
-
-- Python
-- Google Gemini API
-- Model Context Protocol (MCP)
-- Twitter/X API
-- AsyncIO
-
----
-
 ## 📂 Project Structure
 
 ```text
