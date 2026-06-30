@@ -3,7 +3,7 @@
 <p align="center">
 
 
-![GitHub Forks](https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO?style=for-the-badge)
+
 ![GitHub Issues](https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPO?style=for-the-badge)
 ![GitHub License](https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
