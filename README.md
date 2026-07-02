@@ -1,6 +1,7 @@
 # 🤖 AI-Powered Twitter/X Agent
 
 <p align="center">
+        
 ![Gemini](https://img.shields.io/badge/Powered%20by-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-MCP-00C853?style=for-the-badge)
 ![X](https://img.shields.io/badge/X-Twitter-000000?style=for-the-badge&logo=x)
